@@ -1,0 +1,31 @@
+
+.divA{
+    background-color: rgb(68, 17, 116);
+    width: 100vw;
+    height: 300px;
+}
+
+.divB{
+    background-color: rgb(165, 150, 255);
+    width: 100vw;
+    height: 20%;
+}
+
+.p{
+    background-color: #caffc5;
+    color: #6a664a;
+    font-size: 20px;
+    font-family: sans-serif ;
+}
+
+.divD{
+    background-color: #ffab37;
+    width: 60vw;
+    height: 50vh;
+}
+
+.divE{
+    background-color: #ffadd1;
+    width: 10vw;
+    height: 100%;
+}
